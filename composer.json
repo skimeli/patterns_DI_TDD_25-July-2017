@@ -1,0 +1,12 @@
+{
+    "name": "my/project",
+    "require": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Sharon Kimeli",
+            "email": "skimeli@cytonn.com"
+        }
+    ]
+}
